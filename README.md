@@ -1,16 +1,22 @@
-## Hi there 👋
+# Iker Romero
 
-<!--
-**Iker-Romero/Iker-Romero** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Fullstack web developer based in Spain. 3+ years building production web 
+applications end-to-end. Frontend-leaning by preference; comfortable across 
+the full Next.js stack including API routes, server actions, and middleware 
+in TypeScript.
 
-Here are some ideas to get you started:
+## Featured project
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**[HabitsFlow](https://habitsflow.com)** — habit-tracking SaaS in production. 
+1,000+ users, monetized. Designed, built, and operated end-to-end as solo 
+developer and founder.
+
+Stack: Next.js · TypeScript · Node.js · MongoDB · Mongoose · Tailwind CSS · 
+shadcn/ui · Vitest · Git.
+
+## Available
+
+Currently independent. Open to freelance projects and remote roles with 
+international clients.
+
+📍 Spain · Remote · [ikerromero.com](https://www.ikerromero.com) · [LinkedIn](https://www.linkedin.com/in/iker-romero-645b70251/)
