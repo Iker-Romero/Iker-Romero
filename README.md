@@ -19,4 +19,4 @@ shadcn/ui · Vitest · Git.
 Currently independent. Open to freelance projects and remote roles with 
 international clients.
 
-📍 Spain · Remote · [ikerromero.com](https://www.ikerromero.com) · [LinkedIn](https://www.linkedin.com/in/iker-romero-645b70251/)
+📍 Spain · Remote · [ikerromero.com](https://www.ikerromero.com) · [LinkedIn](https://www.linkedin.com/in/ikerromerodev)
