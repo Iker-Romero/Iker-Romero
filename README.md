@@ -7,9 +7,11 @@ in TypeScript.
 
 ## Featured project
 
-**[HabitsFlow](https://habitsflow.com)** — habit-tracking SaaS in production. 
-1,000+ users, monetized. Designed, built, and operated end-to-end as solo 
-developer and founder.
+**[HabitsFlow](https://habitsflow.com)** — habit-tracking SaaS. Designed,
+built, and shipped end-to-end as solo developer and founder. 1,000+ users
+from a paid YouTuber promotion campaign (October 2024). Iterated through
+2025-2026: bug fixes, onboarding, English localization, dark mode,
+authentication migration to better-auth, PWA distribution improvements.
 
 Stack: Next.js · TypeScript · Node.js · MongoDB · Mongoose · Tailwind CSS · 
 shadcn/ui · Vitest · Git.
